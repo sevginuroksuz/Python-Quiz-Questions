@@ -1,2 +1,2 @@
 # Python-Quiz-Questions-
-# Bilgisayar Mühendisliğine giriş dersinde yapılan python quizinin soruları ve benim çözümlerim.
+ Questions and solutions of the python exams for the entrance to Computer Engineering.
