@@ -6,5 +6,7 @@ Python Quiz 1
 """
 
 >>> il="istanbul"
->>> print (il[0] + "*" * (len(il) - 2) + il[-1])
+>>> x=len(il)
+>>> print(il[0]+"*"*x+il[-1]
 i******l
+
